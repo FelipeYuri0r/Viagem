@@ -1,0 +1,16 @@
+body {
+    background-image: linear-gradient(#d47cc9, rgba(182, 89, 167, 0.226), rgb(214, 145, 193));
+}
+
+#aviao {
+    height: 200px;
+    width: 400px;
+    padding: 5px;
+    margin: 15px;
+    border: 10px outset rgb(190, 40, 170);
+}
+
+#viagem {
+    font-size: 200px;
+    width: 50%;
+}
